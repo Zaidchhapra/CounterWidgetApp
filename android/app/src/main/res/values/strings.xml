@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CounterWidgetApp</string>
+    <string name="widget_description">A counter widget that syncs with the main app</string>
+</resources>
